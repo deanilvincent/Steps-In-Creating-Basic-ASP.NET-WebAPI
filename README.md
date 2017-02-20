@@ -54,7 +54,7 @@ Like in basic ASP.NET web app, the connection snippet is the same with ASP.NET W
 ![capture7](https://cloud.githubusercontent.com/assets/10904957/23102221/4e3b296a-f6e0-11e6-86e0-c72f5d4203ec.PNG)
 
 3.2 Adding property inside the class
-```html
+```C#
 public class UserDetailCredentials
 {
     public int Id { get; set; }
