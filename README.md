@@ -157,4 +157,4 @@ In order to access the api, by default, you need to set the uri to api follow by
 ![capture22](https://cloud.githubusercontent.com/assets/10904957/23102886/6774d992-f6ec-11e6-95d9-165034e05736.PNG)
 
 
-We can see see all the details because we are accessing the index get request of our api.
+We can see all the details because we are accessing the index get request of our api.
