@@ -146,10 +146,13 @@ In order to access the api, by default, you need to set the uri to api follow by
 
 #### JSON Format using Microsoft Edge
 
+
 ![capture21](https://cloud.githubusercontent.com/assets/10904957/23102872/372b7cc8-f6ec-11e6-98a3-84afd02351ee.PNG)
 
 #### XML Format using Google Chrome
 
+
 ![capture22](https://cloud.githubusercontent.com/assets/10904957/23102886/6774d992-f6ec-11e6-95d9-165034e05736.PNG)
+
 
 We can see see all the details because we are accessing the index get request of our api.
