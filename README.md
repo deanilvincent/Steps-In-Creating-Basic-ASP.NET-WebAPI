@@ -139,7 +139,7 @@ Now we have set of details, let's us now view our custom API page.
 
 In order to access the api, by default, you need to set the uri to api follow by your api controller name
 
-````html
+```C#
  http://yourhost/api/yourapicontrollername
 ```
 
